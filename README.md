@@ -12,7 +12,7 @@ My main interest lies in backend development and database-oriented systems.
 - Web Development: HTML, CSS, JavaScript  
 - Backend: Node.js, Express  
 - Database: PostgreSQL, SQL  
-- Software Engineering: OOP, basic requirement analysis  
+- Software Engineering: Object-Oriented Programming (OOP), basic requirement analysis  
 - Tools: Git, GitHub
 
 ---
@@ -44,9 +44,10 @@ Tech: PostgreSQL
 Basic Python chatbot that processes user input and returns simple responses.  
 Tech: Python  
 🔗 https://github.com/thanhngan283/SIMPLE_CHATBOT
+
 ---
 
 ### 📝 Todo List Application
 C# desktop application with basic CRUD functionalities.  
-Tech: C#
+Tech: C#  
 🔗 https://github.com/thanhngan283/Todo_List_App
