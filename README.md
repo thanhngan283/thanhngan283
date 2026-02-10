@@ -22,14 +22,14 @@ My main interest lies in backend development and database-oriented systems.
 ### 🏘 Community Management Web System
 Backend-focused web application for managing residents and community facilities.  
 Tech: Node.js, Express, PostgreSQL  
-🔗 https://github.com/ThaoHoang05/BTLCNPM
+🔗 https://github.com/thanhngan283/Community_Management_System
 
 ---
 
 ### 🏪 Office Supplies Sales Management Application
 Desktop application focusing on object-oriented design and sales business logic.  
 Tech: Java  
-🔗 https://github.com/Minhquan0511/20242_ProjOOP
+🔗 https://github.com/thanhngan283/Community_Management_System
 
 ---
 
