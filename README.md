@@ -29,7 +29,7 @@ Tech: Node.js, Express, PostgreSQL
 ### 🏪 Office Supplies Sales Management Application
 Desktop application focusing on object-oriented design and sales business logic.  
 Tech: Java  
-🔗 https://github.com/thanhngan283/Community_Management_System
+🔗 https://github.com/thanhngan283/E-commerce_Web_Application
 
 ---
 
